@@ -3,7 +3,7 @@
 Thumbs.db
 
 # Dependencies
-node_modules/
+# node_modules/
 
 # Dev/Build Artifacts
 /tests/e2e/videos/

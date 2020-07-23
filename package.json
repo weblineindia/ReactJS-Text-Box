@@ -1,6 +1,6 @@
 {
   "name": "react-weblineindia-text-box",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ReactJS based Text Box component used to specify an input field where the user can enter data.",
   "author": "weblineindia",
   "license": "MIT",
